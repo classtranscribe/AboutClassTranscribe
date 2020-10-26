@@ -35,11 +35,11 @@ COVID-19 Challenges
 Plans for the rest of 2020?
 * Listening to students and faculty. We want to make ClassTranscribe work for everyone and helps alls students to learn better.
 * Course notes and epub generation. We think creating books and notes from videos is an exciting way to help students engage more easily to the content. We're working closely with John Tubbs and his team at the Gies College of Business to understand how to help them create epubs and pdfs for their Coursera videos too.
-* Scaling. Go west from the StateFarm Center and you'll bump into NCSA's National Petascale computing facility where NCSA is building a new compute loud. Rob Kooper at NCSA will be using ClassTranscribe to prove the capabilities of this cloud by simulating 52,331 virtual students as if every UIUC student were to simulatenously use ClassTranscribe on reading day. 
+* Scaling. Go west from the StateFarm Center and you'll bump into NCSA's National Petascale computing facility where NCSA is building a new compute loud. Rob Kooper at NCSA will be using ClassTranscribe to prove the capabilities of this cloud by simulating 52,331 virtual students as if every UIUC student were to simultaneously use ClassTranscribe on reading day. 
 
 Student quotes
-"Yesss! I love classTranscribe! subtitles are the. best.!" (CS447 Student, Course Forum)
-"All senior citizens should have Life Alert and all STEM classes should have ClassTranscribe" (ECE 110 student, CITL Survey)
+* "Yesss! I love classTranscribe! subtitles are the. best.!" (CS447 Student, Course Forum)
+* "All senior citizens should have Life Alert and all STEM classes should have ClassTranscribe" (ECE 110 student, CITL Survey)
 
 FAQ
 
