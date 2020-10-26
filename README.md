@@ -23,6 +23,4 @@ Interface designed for learning
 * Transparent pause, rewind, continue-later, next video
 * Caption editing, caption search across course
 * Captions on mobile
-
-Innovations
-* Course notes and nook generation from videos
+* Course notes and book generation
