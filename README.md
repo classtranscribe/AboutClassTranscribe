@@ -56,19 +56,13 @@ Student quotes
 
 FAQ
 
-* Q. I'm a student can I use ClassTranscribe?
-** Ans. Sure! Many courses on ClassTranscribe are available for viewing after you login.
+* I'm a student can I use ClassTranscribe? Sure! Many courses on ClassTranscribe are available for viewing after you login.
 
+* Can I ask for new features? Sure - please contact us with your idea
+* I'm a student can you put my current course on ClassTranscribe? Ask your instructor to contact us (see below).
 
-* Q. I'm a student can you put my current course on ClassTranscribe?
-** Ans. Ask your instructor to contact us (see below).
+* I'm an  instructor at UIUC. Can I use ClassTranscribe for my course videos? Yes. Email classtranscribe aatt illinois.edu your course (e.g. ABC123) and your MediaSpace channel or playlist URL. ClassTranscribe can automatically mirror and publish future content from your MediaSpace/Box account without any futher effort or time from you.
 
+* Are you trying to replace MediaSpace? No. MediaSpace (Kaltura), is the university's official Video storage and presentation and we still suggest that faculty upload their videos there and use ClassTranscribe to improve student learning in their course.
 
-* Q. I'm an  instructor at UIUC. Can I use ClassTranscribe for my course?
-** Ans: Yes.Email classtranscribe aatt illinois.edu your course (e.g. ABC123) and your MediaSpace channel or playlist URL. ClassTranscribe can automatically mirror and publish content from MediaSpace without any futher effort or time from you.
-
-* Q. Are you trying to replace MediaSpace?
-* Ans: No. MediaSpace (Kaltura), is the university's official Video storage and presentation and we still suggest that faculty upload their videos there and use ClassTranscribe to improve student learning in their course.
-
-* Q. Why should I use ClassTranscribe?
-** ClassTranscribe is a great interface from both learning and digital accessibility perspectives. It can help students learn more and learn more efficiently. Our research has found that students who use ClassTranscribe in CS and ECE courses earned higher grades on average and improved final exam scores after controlling for other factors (see for example our 2020 SIGCSE and ASEE papers).
+* Why should I use ClassTranscribe? ClassTranscribe is a great interface from both learning and digital accessibility perspectives. It can help students learn more and learn more efficiently. Our research has found that students who use ClassTranscribe in CS and ECE courses earned higher grades on average and improved final exam scores after controlling for other factors (see for example our 2020 SIGCSE and ASEE papers).
