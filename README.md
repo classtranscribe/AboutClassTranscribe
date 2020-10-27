@@ -1,13 +1,25 @@
 # AboutClassTranscribe
 
+Logos and Images
+* Logo: 
+![Logo](https://raw.githubusercontent.com/classtranscribe/FrontEnd/staging/src/assets/images/brand-text-dark.png)
+
+
+* Icon:
+![Icon](https://raw.githubusercontent.com/classtranscribe/FrontEnd/fa1870c89637da9ee4142aa79bb2bb3f3acf4973/src/assets/images/logo-outline.svg)
+
+
 Some data, facts, plots about ClassTranscribe
 Data Snapshot 10/26
 
+Fundng and Support
 * Supported by a Microsoft Gift and Azure Credits from Microsoft and small grant from the CITL.
 * Developed by UIUC Undergraduates and Graduates
 * Colloraboration with Faculty and Staff at CITL, NCSA
+* PI is CS Teaching Professor, Lawrence Angrave
+* Created 2014.
 
-* 5 colleges represented in 44 courses 
+Content
 * 3132 videos
 * 1938 hours of videos
 * 31 minutes median duration
