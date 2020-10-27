@@ -21,7 +21,7 @@ Fundng and Support
 
 Content
 * 3132 videos
-* 1938 hours of videos
+* 1938 hours of videos; that's about a year of time if your job was to watch 8 hours of video per day.
 * 31 minutes median duration
 
 Captions
