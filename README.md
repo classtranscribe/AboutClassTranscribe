@@ -17,7 +17,7 @@ Fundng and Support
 * Developed by UIUC Undergraduates and Graduates
 * Colloraboration with Faculty and Staff at CITL, NCSA
 * PI is CS Teaching Professor, Lawrence Angrave
-* Created 2014.
+* Early protoype in 2015 used crowdsourcing to create captions. Today's version uses crowdsourcing and machine learning.
 
 Content
 * 3132 videos
