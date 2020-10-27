@@ -63,6 +63,6 @@ FAQ
 
 * I'm an  instructor at UIUC, can I use ClassTranscribe for my course? Yes. Email classtranscribe aatt illinois.edu and include your course e.g. "Eng 123" and your MediaSpace channel or playlist URL. We will set it up for you. ClassTranscribe can automatically mirror and publish future content from your MediaSpace/Box account without any futher effort or time from you.
 
-* Are you trying to replace MediaSpace? No. MediaSpace (Kaltura), is the university's official Video storage and presentation and we still suggest that faculty upload their videos there and use ClassTranscribe to improve student learning in their course.
+* Are you trying to replace MediaSpace? No. MediaSpace (Kaltura), is the university's official video storage and presentation system, which is used for more than just classes; we still suggest that faculty upload their videos there. If faculty want to also use ClassTranscribe to improve student learning in their course, we're here to help. ClassTranscribe can access the original content in MediaSpace even when Mediaspace servers are having difficulties or delays processesing the files.
 
 * Why should I use ClassTranscribe? ClassTranscribe is a great interface from both learning and digital accessibility perspectives. It can help students learn more and learn more efficiently. Our research has found that students who use ClassTranscribe in CS and ECE courses earned higher grades on average and improved final exam scores after controlling for other factors (see for example our 2020 SIGCSE and ASEE papers).
