@@ -10,7 +10,7 @@ Logos and Images
 
 
 Some data, facts, plots about ClassTranscribe
-Data Snapshot 10/26
+Data Snapshot 10/26/2020
 
 Fundng and Support
 * Supported by a Microsoft Gift and Azure Credits from Microsoft and small grant from the CITL.
@@ -66,3 +66,25 @@ FAQ
 * Are you trying to replace MediaSpace? No. MediaSpace (Kaltura), is the university's official video storage and presentation system, which is used for more than just classes; we still suggest that faculty upload their videos there. If faculty want to also use ClassTranscribe to improve student learning in their course, we're here to help. ClassTranscribe can access the original content in MediaSpace even when Mediaspace servers are having difficulties or delays processesing the files.
 
 * Why should I use ClassTranscribe? ClassTranscribe is a great interface from both learning and digital accessibility perspectives. It can help students learn more and learn more efficiently. Our research has found that students who use ClassTranscribe in CS and ECE courses earned higher grades on average and improved final exam scores after controlling for other factors (see for example our 2020 SIGCSE and ASEE papers).
+
+# Features
+
+Automatic updates when videos are posted to MediaSpace Youtube and U of I Box.com
+Captions available on laptop, mobile, and tablet interfaces 
+Students can share as a web link a video with a time-offset 
+Efficient crowd-sourced caption editing 
+Efficient instructor caption editing 
+Multiple playback streams to support ASL signing channel
+Downloadable captions in a standard file format 
+Exit and later resume watching from same moment in a video 
+Learning analytics for students 
+Learning analytics for instructors 
+Detailed per-student activity event data 
+Automated translations 
+ADD / ADHD Cognitive, low-distraction interface  
+First class mobile and tablet interface 
+Motor disabilities support; full-keyboard interface 
+Blind and Low-vision support 
+In-video and course-wide caption text-search 
+Digital Book (epub, pdf, html) creation from videos
+
