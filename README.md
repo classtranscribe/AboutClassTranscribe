@@ -69,22 +69,22 @@ FAQ
 
 # Features
 
-Automatic updates when videos are posted to MediaSpace Youtube and U of I Box.com
-Captions available on laptop, mobile, and tablet interfaces 
-Students can share as a web link a video with a time-offset 
-Efficient crowd-sourced caption editing 
-Efficient instructor caption editing 
-Multiple playback streams to support ASL signing channel
-Downloadable captions in a standard file format 
-Exit and later resume watching from same moment in a video 
-Learning analytics for students 
-Learning analytics for instructors 
-Detailed per-student activity event data 
-Automated translations 
-ADD / ADHD Cognitive, low-distraction interface  
-First class mobile and tablet interface 
-Motor disabilities support; full-keyboard interface 
-Blind and Low-vision support 
-In-video and course-wide caption text-search 
-Digital Book (epub, pdf, html) creation from videos
+* Automatic updates when videos are posted to MediaSpace Youtube and U of I Box.com
+* Captions available on laptop, mobile, and tablet interfaces 
+* Students can share as a web link a video with a time-offset 
+* Efficient crowd-sourced caption editing 
+* Efficient instructor caption editing 
+* Multiple playback streams to support ASL signing channel
+* Downloadable captions in a standard file format 
+* Exit and later resume watching from same moment in a video 
+* Learning analytics for students 
+* Learning analytics for instructors 
+* Detailed per-student activity event data 
+* Automated translations 
+* ADD / ADHD Cognitive, low-distraction interface  
+* First class mobile and tablet interface 
+* Motor disabilities support; full-keyboard interface 
+* Blind and Low-vision support 
+* In-video and course-wide caption text-search 
+* Digital Book (epub, pdf, html) creation from videos
 
